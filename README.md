@@ -1,0 +1,3 @@
+# qr_actorization_method
+In linear algebra, a QR decomposition, also known as a QR factorization or QU factorization, is a decomposition of a matrix A into a product A = QR of an orthogonal matrix Q and an upper triangular matrix R. ...
+Any real square matrix A may be decomposed as
